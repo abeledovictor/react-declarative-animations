@@ -7,6 +7,9 @@ Declarative animations made easy!
   - Prevents you from adding extra logic in your components
   - Uses High Order Component pattern
 
+
+#### Codepen Example of usage: [react-declarative-animations](https://codepen.io/victorabeledo/project/editor/XrMnBo#)
+
 # One modifier animation usage
 
 ```sh
@@ -55,4 +58,3 @@ Example :
 ### What is onAnimationEnd?
 It's an event triggered when css animation ends. It's HTML native and react also uses it. You should almost always put stopAnimation prop here for animations to work properly.
 
-#### Codepen Example of usage: [react-declarative-animations](https://codepen.io/victorabeledo/project/editor/XrMnBo#)
