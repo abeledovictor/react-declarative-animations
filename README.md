@@ -55,3 +55,4 @@ Example :
 ### What is onAnimationEnd?
 It's an event triggered when css animation ends. It's HTML native and react also uses it. You should almost always put stopAnimation prop here for animations to work properly.
 
+#### Codepen Example of usage: [react-declarative-animations](https://codepen.io/victorabeledo/project/editor/XrMnBo#)
