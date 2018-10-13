@@ -12,7 +12,7 @@ Declarative animations made easy!
 
 # One modifier animation usage
 
-```sh
+```javascript
 import React from 'react';
 import { withAnimation } from 'react-declarative-animations';
 
@@ -29,7 +29,7 @@ export default withAnimation(BasicAnimationComponent, 'animation-class');
 
 # 2+ modifiers animation usage
 
-```sh
+```javascript
 import React from 'react';
 import { withAnimation } from 'react-declarative-animations';
 
